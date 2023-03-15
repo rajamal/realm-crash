@@ -1,0 +1,10 @@
+{
+    "trailingComma": "none",
+    "tabWidth": 4,
+    "arrowParens": "always",
+    "semi": true,
+    "singleQuote": true,
+    "env": {
+        "es6": true
+    }
+}
